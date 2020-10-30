@@ -1,0 +1,10 @@
+Name: konrad
+Student number soo: 
+     maths          h        100        100
+   english          o        100         56
+        tg          o        100         56
+    maths2         50          5         20
+        50          5          5          0
+         5          5          5          0
+         5          5         50          0
+total points 232
